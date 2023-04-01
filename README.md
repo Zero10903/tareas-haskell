@@ -4,23 +4,28 @@
 </div>
 
 ## ¿De qué se trata?
+
 Este proyecto es un rejunte de tareas realizadas en la universidad usando un lenguaje de paradigma funcional llamado Haskell.
-El repositorio tendrá los trabajos que vaya realizando de inicio a fin. El mismo *probablemente deje de ser actualizado cuando cambiemos a otro lenguaje de programación*.
+El repositorio tendrá los trabajos que vaya realizando de inicio a fin. El mismo _probablemente deje de ser actualizado cuando cambiemos a otro lenguaje de programación_.
 Espero te sirva para aprender sobre conceptos básicos o para darte una idea general de la forma de funcionamiento de Haskell.
 
 > ### Aclaración
-En cada carpeta de proyecto, podrás encontrar un archivo PDF que contendrá actividades, definiciones, ejemplos, etc. para que puedas practicar por tu cuenta. Tendrás las resoluciones en archivos aparte por cada actividad.
+>
+> En cada carpeta de proyecto, podrás encontrar un archivo PDF que contendrá actividades, definiciones, ejemplos, etc. para que puedas practicar por tu cuenta. Tendrás las resoluciones en archivos aparte por cada actividad.
 
 ## ¿Deseas aportar?
+
 - Crea un Fork y clona el repo en tu PC
 - Añade las tareas que consideres que aportan algo nuevo con sus respectivas consignas
 - Crea un Pull Request
 
 ## Contáctame
+
 [Instagram][insta] | [Gmail][mail]
 
 ## License
-*MIT License*
 
-[insta]: https://www.instagram.com/_moonlight.zero_/ "Instagram"
-[mail]: mailto:sam.alejandro.bustos@gmail.com?Subject=Contacted-from-github "mail"
+_MIT License_
+
+[insta]: https://www.instagram.com/_moonlight.zero_/ 'Instagram'
+[mail]: mailto:sam.alejandro.bustos@gmail.com?Subject=Contacted-from-github 'mail'
