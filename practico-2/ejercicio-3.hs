@@ -1,6 +1,6 @@
 -- ====================================================================================================
 -- Ejercicio 3
--- Una función de lter es aquella que dada una lista devuelve otra lista cuyos elementos son los 
+-- Una función de filter es aquella que dada una lista devuelve otra lista cuyos elementos son los 
 -- elementos de la primera que cumplan una determinada condición, en el mismo orden y con las mismas 
 -- repeticiones (si las hubiere).
 -- ====================================================================================================
